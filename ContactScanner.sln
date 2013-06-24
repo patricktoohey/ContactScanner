@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactScanner", "ContactScanner\ContactScanner.csproj", "{0FF4CD88-EF78-4B1D-8149-2ED541F8F811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactScannerTests", "ContactScannerTests\ContactScannerTests.csproj", "{C9F09E4D-F5C8-4C94-B754-F01DB04C35F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF4CD88-EF78-4B1D-8149-2ED541F8F811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF4CD88-EF78-4B1D-8149-2ED541F8F811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF4CD88-EF78-4B1D-8149-2ED541F8F811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF4CD88-EF78-4B1D-8149-2ED541F8F811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F09E4D-F5C8-4C94-B754-F01DB04C35F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F09E4D-F5C8-4C94-B754-F01DB04C35F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F09E4D-F5C8-4C94-B754-F01DB04C35F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F09E4D-F5C8-4C94-B754-F01DB04C35F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
